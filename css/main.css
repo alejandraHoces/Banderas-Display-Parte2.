@@ -4,6 +4,7 @@ div{
   height: 150px;
 /*colocando el ancho de caja*/
   width: 300px;
+  
 }
 /*llamando a selector de clase con un punto*/
 .yellow{
