@@ -1,0 +1,27 @@
+/*utilizando selector div */
+div{
+/*colocando la altura de caja*/
+  height: 150px;
+/*colocando el ancho de caja*/
+  width: 300px;
+}
+/*llamando a selector de clase con un punto*/
+.yellow{
+/*colocando color de fondo a las dos cajas*/
+  background-color: #FFCC00;
+/*colocando relleno para que las letras ingresen 10px lado izquierdo y lado superior*/
+  padding-left: 10px;
+  padding-top:10px
+}
+/*llamando a selector de clase con un punto*/
+.black{
+/*colocando color de fondo a la caja*/
+  background-color: #484848;
+/*colocando un margen lado superios y lado inferior*/
+  margin: 10px 0 10px;
+/*colocando color blanco a las letras*/
+  color: white;
+/*colocando relleno para que las letras ingresen 10px lado izquierdo y lado superior*/
+  padding-left: 10px;
+  padding-top:10px
+}
